@@ -118,8 +118,7 @@ header{
     margin-left: 40px;
 }
 
-.main-nav li a:link,
-.main-nav li a:visited{
+.main-nav li a{
     padding: 8px 0; 
     color: #fff;
     text-decoration: none;
